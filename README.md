@@ -1,5 +1,7 @@
 # VM3 Discovery
 
+https://github.com/DanielPMarchesi/vm3-discovery/blob/b09f97c035a45ef0cd09e4bcd280676b1ddf081a/Relat%C3%B3rio%20T%C3%A9cnico.pdf
+
 Agente de descoberta e monitoramento de rede desenvolvido para a disciplina de Laboratório de Redes.
 
 O projeto tem como objetivo criar uma VM responsável por escanear redes/VLANs, identificar hosts ativos, portas abertas, serviços, fingerprint de sistema operacional e enviar os dados coletados para um servidor central, chamado VM1.
