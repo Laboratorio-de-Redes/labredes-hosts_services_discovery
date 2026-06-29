@@ -31,8 +31,8 @@ A VM1 é responsável por receber e armazenar os dados enviados pela VM3.
 Endpoints utilizados:
 
 ```text
-http://10.10.1.2/api/v1/inventory/
-http://10.10.1.2/api/v1/events/
+http://10.0.20.10/api/v1/inventory/
+http://10.0.20.10/api/v1/events/
 ```
 
 O endpoint de inventário recebe os dados dos hosts encontrados.
