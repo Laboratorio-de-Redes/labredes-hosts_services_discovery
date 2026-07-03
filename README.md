@@ -3,7 +3,7 @@
 
 O relatório técnico individual do projeto está disponível no arquivo:
 
-https://github.com/DanielPMarchesi/vm3-discovery/blob/b09f97c035a45ef0cd09e4bcd280676b1ddf081a/Relat%C3%B3rio%20T%C3%A9cnico.pdf
+https://github.com/DanielPMarchesi/vm3-discovery/blob/main/Relat%C3%B3rio.pdf
 
 Agente de descoberta e monitoramento de rede desenvolvido para a disciplina de Laboratório de Redes.
 
