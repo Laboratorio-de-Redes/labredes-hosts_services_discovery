@@ -1,4 +1,9 @@
 # VM3 Discovery
+
+*_Autor: Daniel Marchesi_* [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/DanielPMarchesi)
+
+---
+
 ## Relatório Técnico
 
 O relatório técnico individual do projeto está disponível no arquivo:
